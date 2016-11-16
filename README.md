@@ -1,1 +1,1 @@
-Prácticas de la asignatura Técnicas de los Sistemas Inteligentes. 
+Constraint Satisfaction Problems in Prolog.
